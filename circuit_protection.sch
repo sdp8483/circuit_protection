@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:circuit_protection-cache
 EELAYER 26 0
 EELAYER END
 $Descr A 11000 8500
@@ -331,4 +332,6 @@ Wire Wire Line
 Connection ~ 5700 4300
 Wire Wire Line
 	5700 4300 5700 4250
+Text Label 4650 3250 0    50   ~ 0
+Va
 $EndSCHEMATC
