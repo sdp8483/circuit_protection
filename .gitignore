@@ -30,3 +30,4 @@ _autosave-*
 # OSX Files
 .DS_Store
 
+data_analysis/.DS_Store
