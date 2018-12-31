@@ -335,10 +335,10 @@ Wire Wire Line
 Text Label 4650 3250 0    50   ~ 0
 Va
 $Comp
-L Vishay:D_Zener D?
+L Vishay:D_Zener D1
 U 1 1 5C2ACD9F
 P 5750 3700
-F 0 "D?" V 5700 3800 50  0000 L CNN
+F 0 "D1" V 5700 3800 50  0000 L CNN
 F 1 "15V" V 5800 3800 50  0000 L CNN
 F 2 "Vishay:Vishay_TZM5258B_SOD80" H 5750 3700 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/85635/tlz.pdf" H 5750 3700 50  0001 C CNN
