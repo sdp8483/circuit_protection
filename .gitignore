@@ -24,6 +24,9 @@ _autosave-*
 *.xml
 *.csv
 
+# Excel Temp Files
+*~$*.xlsx
+
 # OSX Files
 *.DS_Store
 
