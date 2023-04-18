@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pl_MOSFET")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/pl_MOSFET/pl_MOSFET.kicad_sym")(options "")(descr ""))
+)
