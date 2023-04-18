@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Vishay)(type Legacy)(uri "$(KIPRJMOD)/lib_sch/Vishay.lib")(options "")(descr ""))
-)
